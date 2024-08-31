@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ableyese.github.io/sitemap.html.gz
+Sitemap: https://ableyese.github.io/app/sitemap.html.gz
+Sitemap: https://ableyese.github.io/assets/sitemap.html.gz
+Sitemap: https://ableyese.github.io/css/sitemap.html.gz
+Sitemap: https://ableyese.github.io/includes/sitemap.html.gz
+Sitemap: https://ableyese.github.io/item/sitemap.html.gz
+Sitemap: https://ableyese.github.io/src/sitemap.html.gz
